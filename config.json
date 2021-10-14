@@ -1,0 +1,57 @@
+{
+  "BACKTEST_SPREAD": 0,
+  "BACKTEST_FEE": 0.002,
+  "TIMEFRAMES": [15, 30, 60],
+  "PAIRS": [
+      "BTC/USDT",
+
+      "EOS/USDT",
+      "ETH/USDT",
+      "LINK/USDT",
+      "XRP/USDT",
+      "BNB/USDT",
+
+      "LTC/USDT",
+      "ADA/USDT",
+      "XTZ/USDT",
+      "TRX/USDT",
+
+      "NEO/USDT",
+      "BCH/USDT",
+      "ATOM/USDT",
+      "FTM/USDT",
+
+      "XMR/USDT",
+      "DASH/USDT",
+      "ALGO/USDT",
+      "DOGE/USDT",
+    
+      "EOS/BTC",
+      "ETH/BTC",
+      "LINK/BTC",
+      "XRP/BTC",
+      "BNB/BTC",
+
+      "LTC/BTC",
+      "ADA/BTC",
+      "XTZ/BTC",
+      "TRX/BTC",
+
+      "NEO/BTC",
+      "BCH/BTC",
+      "ATOM/BTC",
+      "FTM/BTC",
+
+      "XMR/BTC",
+      "DASH/BTC",
+      "ALGO/BTC",
+      "DOGE/BTC"
+  ],
+  "DATA_VON": 1509494400,
+  "DATA_BIS": 0,
+  "CANDLES_MIN": 4000,
+  "CANDLES_MAX": 6000,
+  "SELECT_COUNT_PER_RUN": 100000,
+  "WORKER_COUNT": 1,
+  "ENABLE_SUBPROCESS_LOGGING": true
+}
